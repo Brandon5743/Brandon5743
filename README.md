@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Atlegang</h1>
-<h3 align="center">A passionate fronted developer student</h3>
+<h3 align="center">A passionate frontend developer student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atlegang&label=Profile%20views&color=0e75b6&style=flat" alt="atlegang" /> </p>
 
